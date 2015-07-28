@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ChangeImageView">
+        <attr name="fromImage" format="reference"></attr>
+        <attr name="toImage" format="reference"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="WaitProgress">
+        <attr name="dotRadius" format="dimension"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="ScaleImageView">
+        <attr name="imageScale" format="float"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="ScaleTextView">
+        <attr name="textScale" format="float"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="ImageWithTagView">
+        <attr name="imgNormalSrc" format="reference"></attr>
+        <attr name="imgSelectedSrc" format="reference"></attr>
+        <attr name="imgSize" format="dimension"></attr>
+        <attr name="textSize" format="dimension"></attr>
+        <attr name="text" format="string"></attr>
+        <attr name="selected" format="boolean"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="ViewPagerTabBar">
+        <attr name="tabText1" format="string"></attr>
+        <attr name="tabText2" format="string"></attr>
+        <attr name="tabText3" format="string"></attr>
+        <attr name="tabTextSize" format="dimension"></attr>
+        <attr name="selectColor" format="color"></attr>
+        <attr name="normalColor" format="color"></attr>
+    </declare-styleable>
+
+    <declare-styleable name="NewsBar">
+        <attr name="iconSrc" format="reference"></attr>
+        <attr name="iconSize" format="dimension"></attr>
+        <attr name="newsTextSize" format="dimension"></attr>
+        <attr name="newsTextColor" format="color"></attr>
+    </declare-styleable>
+</resources>
