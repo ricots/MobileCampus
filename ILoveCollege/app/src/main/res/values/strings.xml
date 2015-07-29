@@ -41,5 +41,10 @@
     <string name="xyt_schedule">西美课表</string>
     <string name="xyt_alumnus">校友记</string>
     <string name="zero">0</string>
+    <string name="publish_text_cancel">取消</string>
+    <string name="publish_text_image">图文</string>
+    <string name="publish_send">发送</string>
+    <string name="publish_limits">权限</string>
+    <string name="publish_quality">照片质量</string>
 </resources>
 
